@@ -3,6 +3,7 @@
 {
     "firstName":"Yousssou",
     "lastName":"Cisse",
+    "email": "you@gmail.com",
     "createdBy": "<UUID>"
 
 }
@@ -33,6 +34,7 @@
     "id":"<UUID>",
     "firstName":"Yousssou",
     "lastName":"Cisse",
+    "email": "you@gmail.com",
     "metaData":{
       "status": "ACTIVATE",
       "version": 1,
@@ -53,6 +55,7 @@
       "id":"<UUID>",
       "firstName":"Yousssou",
       "lastName":"Cisse",
+      "email": "you@gmail.com",
       "metaData":{
         "status": "ACTIVATE",
         "version": 1,
@@ -65,6 +68,7 @@
       "id":"<UUID>",
       "firstName":"Laye",
       "lastName":"Ba",
+      "email": "you@gmail.com",
       "metaData":{
         "status": "ACTIVATE",
         "version": 1,
@@ -89,6 +93,7 @@
         "id": "<UUID>",
         "firstName": "Yousssou",
         "lastName": "Cisse",
+        "email": "you@gmail.com",
         "metaData": {
           "status": "ACTIVATE",
           "version": 1,
@@ -101,6 +106,7 @@
         "id": "<UUID>",
         "firstName": "Laye",
         "lastName": "Ba",
+        "email": "you@gmail.com",
         "metaData": {
           "status": "ACTIVATE",
           "version": 1,
